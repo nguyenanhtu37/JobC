@@ -29,6 +29,10 @@
         <servlet-class>controller.ListPostServlet</servlet-class>
     </servlet>
     <servlet>
+        <servlet-name>CreateAccServlet</servlet-name>
+        <servlet-class>controller.CreateAccServlett</servlet-class>
+    </servlet>
+    <servlet>
         <servlet-name>AcceptJob</servlet-name>
         <servlet-class>controller.AcceptJob</servlet-class>
     </servlet>
@@ -47,6 +51,10 @@
     <servlet-mapping>
         <servlet-name>SignUpServlet</servlet-name>
         <url-pattern>/SignUpServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>CreateAccServlet</servlet-name>
+        <url-pattern>/CreateAccServlet</url-pattern>
     </servlet-mapping>
     <servlet-mapping>
         <servlet-name>VerifyServlet</servlet-name>

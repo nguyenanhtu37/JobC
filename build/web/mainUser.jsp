@@ -85,7 +85,7 @@
                                 <li><a href="#" class="nav-link active">Home</a></li>
                                 <li><a href="CreateCV.jsp">Create CV</a></li>
                                 <li><a href="blog.html">View CV</a></li>
-                                <li><a href="blog.html">Interview</a></li>
+                                <li><a href="https://nguyenanhtu37.github.io/PluginMessenger/plugin.html">Chat</a></li>
                                 <li><a href="blog.html">Job Applied</a></li>
                                 <li class="d-lg-none"><a href="post-job.html"><span class="mr-2">+</span> Post a Job</a></li>
                                 <li class="d-lg-none"><a href="login.html">Log In</a></li>
